@@ -2,7 +2,6 @@
 
 ## Project Details
 
-This is the results of a daily assignment from The Iron Yard that I took well beyond the minimum requirements.
 
 ### Things to know
 
